@@ -5,9 +5,9 @@
     </head>
     <body>
 
-    <form method = "get" action="index1.php">
-    Numero1 <input type = "text" name="txtN" value= "0">
-    Numero2 <input type = "text" name="txtb" value= "0">
+    <form method = "POST" action="index2.php">
+    N <input type = "text" name="txt" value= "0">
+    K <input type = "text" name="txtK" value= "0">
     <input type="submit" value="Calcular" name="cmdEnviar">
 
    
